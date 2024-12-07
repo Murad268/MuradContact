@@ -36,3 +36,4 @@ C:\Users\TechEvo Computers\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\r
 C:\Users\TechEvo Computers\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.pdb
 C:\Users\TechEvo Computers\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.genruntimeconfig.cache
 C:\Users\TechEvo Computers\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ref\ContactApp.dll
+C:\Users\TechEvo Computers\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.sourcelink.json
